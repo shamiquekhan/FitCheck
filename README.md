@@ -289,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@yourusername](https://github.com/shamiquekhan)
 - **Twitter**: [@fincheck](https://twitter.com/fincheck)
 - **Email**: support@fincheck.com
 
@@ -307,8 +307,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ for Indian Investors**
+**Made with ❤️ By Shamique Khan**
 
-[Report Bug](https://github.com/yourusername/fincheck/issues) · [Request Feature](https://github.com/yourusername/fincheck/issues)
+[Report Bug](https://github.com/shamiquekhan/fincheck/issues) · [Request Feature](https://github.com/shamiquekhan/fincheck/issues)
 
 </div>
