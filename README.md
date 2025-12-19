@@ -8,7 +8,7 @@
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-green.svg)](https://chrome.google.com/webstore)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Made for Indian Investors](https://img.shields.io/badge/Made%20for-Indian%20Investors-orange.svg)](README.md)
+[![Made By Shamique Khan](https://img.shields.io/badge/Made%20By-%20Shamique-orange.svg)](README.md)
 
 </div>
 
