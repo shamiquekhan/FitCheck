@@ -289,9 +289,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **GitHub**: [@yourusername](https://github.com/shamiquekhan)
-- **Twitter**: [@fincheck](https://twitter.com/fincheck)
-- **Email**: support@fincheck.com
+- **GitHub**: [@yshamiquekhan](https://github.com/shamiquekhan)
+- **Twitter**: [@shamique_1810](https://twitter.com/shamique-1810)
+- **Email**: shamiquekhan18@gmail.com
 
 ## 🗺️ Roadmap
 
